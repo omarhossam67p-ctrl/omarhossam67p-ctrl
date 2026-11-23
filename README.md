@@ -1,16 +1,25 @@
-## Hi there 👋
+# Omar Hossam
+### Graphic design. Imagination meets production.
 
-<!--
-**omarhossam67p-ctrl/omarhossam67p-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a mid-level graphic designer working across Photoshop compositions, product advertising visuals and print layouts.
 
-Here are some ideas to get you started:
+[View my portfolio](https://omarhossam67p-ctrl.github.io/) · [Behance](https://www.behance.net/omarhosaam67)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+- **The Walking Castle**: surreal Photoshop composition.
+- **LUMA Lunch Box**: coordinated product advertising visuals.
+- **The Spirit of Egypt**: coffee cup and advertisement concept.
+- **Stal Global Business**: corporate trifold brochure layout.
+
+## My focus
+- Product visuals and Photoshop compositing
+- Social media design and print layouts
+- Client proofs, renders and factory-facing layout for coins, pins and badges
+
+## Tools
+Adobe Photoshop · Adobe InDesign · Adobe Premiere Pro · Meta Ads
+
+## Opportunities
+Interested in international and remote graphic design work, plus junior media buying and video editing roles.
+
+This GitHub hosts my design portfolio. It is not a software development portfolio.
