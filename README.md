@@ -1,25 +1,45 @@
 # Omar Hossam
-### Graphic design. Imagination meets production.
 
-I'm a mid-level graphic designer working across Photoshop compositions, product advertising visuals and print layouts.
+### Creative Graphic Designer · Visual Storytelling · Digital & Print
 
-[View my portfolio](https://omarhossam67p-ctrl.github.io/) · [Behance](https://www.behance.net/omarhosaam67)
+I turn ideas into visual experiences — from bold product campaigns and imaginative Photoshop compositions to polished print layouts.
 
-## Selected work
-- **The Walking Castle**: surreal Photoshop composition.
-- **LUMA Lunch Box**: coordinated product advertising visuals.
-- **The Spirit of Egypt**: coffee cup and advertisement concept.
-- **Stal Global Business**: corporate trifold brochure layout.
+**[Explore my live portfolio ↗](https://omarhossam67p-ctrl.github.io/)** · **[View my Behance ↗](https://www.behance.net/omarhosaam67)**
 
-## My focus
-- Product visuals and Photoshop compositing
-- Social media design and print layouts
-- Client proofs, renders and factory-facing layout for coins, pins and badges
+---
 
-## Tools
-Adobe Photoshop · Adobe InDesign · Adobe Premiere Pro · Meta Ads
+## ✦ Selected work
 
-## Opportunities
-Interested in international and remote graphic design work, plus junior media buying and video editing roles.
+| Project | Focus |
+|---|---|
+| **The Walking Castle** | Surreal Photoshop compositing |
+| **LUMA Lunch Box** | Product advertising campaign |
+| **The Spirit of Egypt** | Coffee packaging & advertising concept |
+| **Mercedes-AMG GT** | Automotive poster · Typography & masking |
+| **Hot & Fresh** | Food advertising concept |
+| **Premium Cold Coffee** | Product visual |
+| **Dream. Work. Arrive** | Conceptual photo manipulation |
+| **Stal Global Business** | Corporate trifold brochure |
 
-This GitHub hosts my design portfolio. It is not a software development portfolio.
+## ✦ What I do
+
+- Product advertising and campaign visuals
+- Photoshop compositing and photo manipulation
+- Social media creatives and promotional artwork
+- Editorial and print layout design
+- Production artwork, client proofs and presentation renders
+
+## ✦ Creative toolkit
+
+**Adobe Photoshop** · **Adobe InDesign** · **Adobe Premiere Pro** · **Meta Ads**
+
+## ✦ Let's connect
+
+Open to creative collaborations, freelance projects and remote graphic design opportunities.
+
+- **Portfolio:** https://omarhossam67p-ctrl.github.io/
+- **Behance:** https://www.behance.net/omarhosaam67
+
+---
+
+<sub>Design portfolio by Omar Hossam. This profile showcases visual design work rather than software development projects.</sub>
